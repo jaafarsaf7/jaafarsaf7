@@ -10,11 +10,11 @@
 
 - 🔭 I’m currently searching for an internship in the AI/ML feild.
 
-- ⚡ I’m currently improving my skills in ML and working on computer vision projects and fullstack solutions.
+- ⚡ I’m currently improving my skills in ML and working on machine learning and fullstack solutions.
 
-- ⚡ This my latest project: [demo](https://main.d651i91z10nc4.amplifyapp.com/)
+- ⚡ This my latest project: [demo](https://www.jaafarportfolio.com/)
 
-- 📫 How to reach me **jaafarsafar@gmail.com**
+- 📫 How to reach me **jaafarsafar5@gmail.com**
 
 
 
