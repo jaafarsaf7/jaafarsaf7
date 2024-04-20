@@ -6,8 +6,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jaafarsaf71&label=Profile%20views&color=0e75b6&style=flat" alt="jaafarsafar" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jaafarsaf7" alt="" /></a> </p>
-
 - 🔭 I’m currently searching for an internship in the AI/ML feild.
 
 - ⚡ I’m currently improving my skills in ML and working on machine learning and fullstack solutions.
